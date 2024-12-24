@@ -1,5 +1,5 @@
 # AngleCalculator
-The Angle Finder model utilizes Python and OpenCV to detect and calculate angles by identifying the key points or lines in the input, the model computes the angle between them .
+The Angle Calculator model utilizes Python and OpenCV to detect and calculate angles by identifying the key points or lines in the input, the model computes the angle between them .
 
 ## How It Works  
 
