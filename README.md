@@ -16,5 +16,5 @@ The Angle Calculator model utilizes Python and OpenCV to detect and calculate an
 - Python  
 - OpenCV library (`pip install opencv-python`)  
 
-### Example Output  
-The angle between the selected points will be displayed on the image in degrees.
+### Expected Output  
+The angle between the selected points will be displayed on the image in degrees (Refer 'output.mp4' to verify the outpu).
